@@ -1,0 +1,16 @@
+{
+  "name": "diagonal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "devDependencies": {},
+  "scripts": {
+    "dev": "http-server -c-1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tiny-game-engine": "git://github.com/tunylund/tiny-game-engine.git"
+  }
+}
